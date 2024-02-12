@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "title": "Nike Air tai",
+      "price": 120000,
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "title": "Adidas",
+      "price": 100000
+    },
+    {
+      "id": "3",
+      "title": "Puma",
+      "price": 110000
+    },
+    {
+      "id": "4",
+      "title": "Reebok",
+      "price": 130000
+    },
+    {
+      "id": "f3f2",
+      "title": "peler",
+      "price": "234"
+    }
+  ]
+}
